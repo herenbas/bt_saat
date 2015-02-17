@@ -1,0 +1,70 @@
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Form1.resources
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+c:\users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+C:\Users\5521\documents\visual studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+C:\Users\5521\Documents\Visual Studio 2013\Projects\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Form1.resources
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+C:\Users\oracle\Desktop\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Form1.resources
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db.mdf
+C:\Users\oracle\Desktop\TEZ\hafta4\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db_log.ldf
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db.mdf
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db_log.ldf
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Form1.resources
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+C:\Users\5521\Desktop\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+C:\Users\5521\Desktop\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+C:\Users\5521\Desktop\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+C:\Users\5521\Desktop\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db.mdf
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db_log.ldf
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Form1.resources
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+H:\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db.mdf
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\saat_db_log.ldf
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe.config
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.exe
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\bin\Debug\Bluetooth_Saat.pdb
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.Properties.Resources.resources
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.RadForm1.resources
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csproj.GenerateResource.Cache
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.exe
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.pdb
+E:\berenn\BlueTooth_Saat V.2 eng\Bluetooth_Saat\Bluetooth_Saat\Bluetooth_Saat\obj\x86\Debug\Bluetooth_Saat.csprojResolveAssemblyReference.cache
